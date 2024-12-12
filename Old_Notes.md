@@ -1,13 +1,25 @@
-Classification
-Regression
-Clustering
-Dimensionality Reduction
-Model selection
-Pre-processing
+
+# Instructor Workshop notes
+-------------------------------------
+
+Based on the discussion, the following are the 4 broad sub-domains under AI we need to create a curriculum. I am assigning one area to each of you, let me know if you are ok
+
+1. Predictive Analytics (Classical Machine Learning) - Scikit Learn etc. -- Shikha
+2. Deep Learning (Computer Vision)- PyTorch / TensorFlow etc. -- Shweta
+3. Generative AI (LLMs)- OpenAI, LangChain etc. -- Abhinav
+4. NLP / Sentiment Analysis - NLTK etc. -- Premlata
+5. Q-Learning etc. -- Chhavi
 
 
-Regression
-=========
+- Classification
+- Regression
+- Clustering
+- Dimensionality Reduction
+- Model selection
+- Pre-processing
+
+
+#### Regression
 Purpose: Predicting a continuous-valued attribute associated with an object
 Applications: House Price Prediction, Stock Price Prediction, Drug Response
 Algorithms: Gradient Boosting, Nearest Neighbors, Random Forest

@@ -1,6 +1,34 @@
 
 # Instructor Workshop notes
 -------------------------------------
+Course name ideas
+Here are some sober and professional name ideas for your AI course:
+
+1. **Foundations of AI**
+
+2. **AI & Machine Learning Essentials**
+
+3. **AI Fundamentals for Middle Schoolers**
+
+4. **Practical AI: From Basics to Applications**
+
+5. **Introduction to AI & Machine Learning**
+
+6. **AI & Computer Vision for Young Learners**
+
+7. **Exploring AI: Concepts & Applications**
+
+8. **Hands-on AI for Middle School**
+
+9. **Understanding AI: A Beginner’s Course**
+
+10. **AI & Generative Models: A Practical Approach**
+
+  
+
+These keep it clear and professional while still being engaging. Do any of these resonate with you?
+
+
 
 Based on the discussion, the following are the 4 broad sub-domains under AI we need to create a curriculum. I am assigning one area to each of you, let me know if you are ok
 

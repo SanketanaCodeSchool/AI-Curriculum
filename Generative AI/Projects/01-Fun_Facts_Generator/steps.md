@@ -23,3 +23,10 @@ GEMINI_API_KEY="your_api_key_here"
 ```
 streamlit hello
 ```
+
+## Concepts
+
+Steamlit
+Google AI Studio
+Copilot
+Streamlit community

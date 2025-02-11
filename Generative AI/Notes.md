@@ -36,8 +36,9 @@
 - Model tuning 
 - Quantization
 - Embeddings
-- Tools
+- GUI
     - Streamlit
+    - OpenWeb GUI
     - Gradio
 - Vector Databases
     - ChromaDB

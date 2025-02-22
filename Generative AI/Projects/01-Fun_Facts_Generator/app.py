@@ -5,8 +5,7 @@ from dotenv import load_dotenv
 
 # Load API key from .env file
 load_dotenv()
-#genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
-genai.configure(api_key="AIzaSyApdTd4IGDS5pcYvgsJ7VTro1sR0l613kw")
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 # Function to generate a fun fact
 def generate_fun_fact(topic):

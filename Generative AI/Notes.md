@@ -4,6 +4,8 @@
 ## Scope
 - Langchain
 - LlamaIndex
+- Langgraph
+- Crewai
 - Hugging Face
 - Diffussion Models
 - RAG (Retrieval Augumented Generation)

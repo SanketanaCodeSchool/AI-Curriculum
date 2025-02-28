@@ -2,6 +2,8 @@
 
 ## 🌎 AI Travel Destination Recommender
 
+![AI Travel Destination Recommender Screenshot](screenshot.png)
+
 ### Introduction
 
 Ever wanted to travel but didn’t know where to go? This AI-powered travel recommender helps users find perfect travel destinations based on their preferences like climate, activities, budget, and trip duration. It uses **Google Gemini AI** to suggest customized travel ideas!

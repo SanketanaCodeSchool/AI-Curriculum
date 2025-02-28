@@ -115,3 +115,4 @@ Homework
 - Read about TopP, Frequency Penalty, Presence Penalty
 - Explore OpenAI playground, Google AI Studio
 - Explore OpenAI API and run few API from Postman
+- Complete AI Study Buddy project by following Github code / explainer
